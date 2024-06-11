@@ -1,2 +1,2 @@
 # calulator
-Using HTML,CSS,JS
+A small JS Project using HTML,CSS,JS.
